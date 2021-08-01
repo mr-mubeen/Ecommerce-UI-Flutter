@@ -21,11 +21,7 @@ appBar: AppBar (
                    
                    
           )
-        
-
-          
-          
-        
+  
         
         ,),
 
@@ -35,7 +31,7 @@ appBar: AppBar (
     
     
          children: [
-
+//  swhowing user details in profile page to display uuser profile 
 
             Row (children: [
               Image.asset("assets/user.png" , width: 250, height: 300),
@@ -72,7 +68,7 @@ appBar: AppBar (
           SizedBox(height: 20),
            Text("Email" , style: TextStyle(fontWeight: FontWeight.bold , fontSize: 24 , color: Colors.black),),
           SizedBox(height: 20),
-           Text("abc@gmail.com"),
+           Text("mubeen@gmail.com"),
           SizedBox(height: 20),
           
            Text("Phone" , style: TextStyle(fontWeight: FontWeight.bold , fontSize: 24 , color: Colors.black),),
@@ -86,7 +82,7 @@ appBar: AppBar (
           SizedBox(height: 20),
            Text("Date of Birth" , style: TextStyle(fontWeight: FontWeight.bold , fontSize: 24 , color: Colors.black),),
           SizedBox(height: 20),
-           Text("12-07-2009 , NYC"),
+           Text("12-07-1999 , NYC"),
           SizedBox(height: 20),
     
           ],)
