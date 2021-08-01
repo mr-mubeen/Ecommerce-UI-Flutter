@@ -25,14 +25,9 @@ class Details extends StatelessWidget {
                    
                    
           )
-        
-
-          
-          
-        
+    
         
         ,),
-
 
 
         body:
@@ -53,6 +48,7 @@ class Details extends StatelessWidget {
           abc(),
           abc(),
           abc()
+//              this is when we use paramters in widgets functions
           // abc("assets/1.jpg" , "IPHONE 12" , "5.0 (23 reviews)" , "\$1500"),
           // abc("assets/2.jpg" , "Mac Book 12" , "4.5 (32 reviews)" , "\$5000"),
           // abc("assets/3.jpg" , "Mac Book 12" , "4.2 (49 reviews)" , "\$6000"),
