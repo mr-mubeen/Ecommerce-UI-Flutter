@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
 
-
-
-
 class ProductS extends StatelessWidget {
   const ProductS({ Key? key }) : super(key: key);
 
@@ -24,25 +21,17 @@ class ProductS extends StatelessWidget {
 
                   Icon(Icons.notifications , color: Colors.black)  
               ],   
-                   
+                 
                    
           )
         
 
-          
-          
-        
-        
         ,),
 
 
 
         body:
 
-        
-
-        
-        
          SingleChildScrollView(
           
 
@@ -125,6 +114,7 @@ class _ProductState extends State<Product> {
 
 Widget abc( img , tt , sb , pr ){
 
+//    making list in a widget for repeatidly using this in main app
   return ListTile(leading: CircleAvatar( backgroundImage: NetworkImage(img), 
           radius: 50,
           ),
