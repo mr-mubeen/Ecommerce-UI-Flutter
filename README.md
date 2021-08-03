@@ -16,7 +16,9 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-It is a Design build using Flutter
+It is a Design build using Flutter, All work is done using Flutter and Dart, 2 Ecommerce screen and one User profile screen.
+All have differnt widget and files in lib folder
+
 
 ![2](https://user-images.githubusercontent.com/51805517/128095236-187ea0e1-a5ce-409e-9542-02e8a2b69a0f.jpeg)
 ![3](https://user-images.githubusercontent.com/51805517/128095240-ad5a017d-c94a-4c9f-b6f0-028dd5e7f809.jpeg)
